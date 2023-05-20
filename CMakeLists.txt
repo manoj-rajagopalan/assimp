@@ -831,3 +831,6 @@ if(WIN32)
     ENDIF()
   ENDIF()
 ENDIF ()
+
+ADD_SUBDIRECTORY(assimp_qt_viewer/assimp_qt_viewer)
+
