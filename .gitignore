@@ -120,3 +120,8 @@ tools/assimp_qt_viewer/ui_mainwindow.h
 
 #Generated directory
 generated/*
+
+# Manoj
+_build
+assimp_qt_viewer
+
